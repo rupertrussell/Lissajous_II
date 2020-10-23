@@ -6,6 +6,9 @@
 
 // 27 March 2011  Updated 10 October 2020
 // http://www.rupert.id.au/tutorials/processing/examples.php
+// artwork on Redbubble at: https://www.redbubble.com/shop/ap/6935753
+// code on Github at: https://github.com/rupertrussell/Lissajous_II
+
 boolean saveFrames = false;
 int ellipseCount = 0;
 int oldEllipseCount = 0;
